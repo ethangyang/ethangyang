@@ -10,5 +10,5 @@ I am a sophomore at **Peachtree Ridge High School** working at the intersection 
 * **The Tech:** Building custom Python pipelines using `pandas` and `numpy` to parse data from `oxDNA` and `CanDo`.
 
 ### Finance & App Development
-* **The Project:** Building a custom financial technology application [add 1-4 words here on what the app does, e.g., "for tracking market metrics" or "to model portfolio data"].
+* **The Project:** Building a custom financial technology application for algorithimic asset tracking.
 * **The Tech:** Applying programming logic to process data inputs, structure backend systems, and design user-facing features.
