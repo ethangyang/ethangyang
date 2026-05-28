@@ -1,4 +1,4 @@
-# Hi! I'm Ethan Yang 👋
+# Hi! I'm Ethan Yang
 
 I am a sophomore at **Peachtree Ridge High School** working at the intersection of computer science, biotechnology, and financial data analysis.
 
