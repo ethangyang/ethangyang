@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=00F2FE&center=true&vCenter=true&width=1100&height=100&repeat=0&lines=STRUCTURING+QUANTITATIVE+FINANCE+APPLICATIONS...%3BADVANCING+COMPUTATIONAL+BIOLOGY+PIPELINES...%3BWELCOME+TO+MY+LAB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=00F2FE&center=true&vCenter=true&width=1100&height=100&repeat=0&lines=Hi%2C+my+name+is+Ethan+Yang%3BWELCOME+TO+MY+LAB" alt="Typing SVG" />
 </p>
 
 <br />
